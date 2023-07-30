@@ -1,7 +1,7 @@
-<h2 align="left"><img src="https://miro.medium.com/v2/resize:fit:1280/0*dy4moFCDSQXWaMF6.gif" width="50"><b>Connectify</b></h2>
+<h2 align="left"><img src="https://github.com/urfavcrow23/Connectify/blob/main/Images/Logo.png?raw=true" width="15"> <b>Connectify</b></h2>
 <h4 align="left"><img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/eyes_1f440.gif?raw=true" width="19"
   
-  <i> Is a mobile application created as a part of the challenge cards for <b>"Brmjha Internship"</b> and it's to enhance the learning experience by creating an interactive platform for users to test their knowledge and acquire new information. The app aims to bridge the gap between traditional learning methods and modern technology, providing an engaging and accessible way to assess and expand knowledge. </i></h4>
+  <i> Is a mobile application created as a part of the challenge cards for <b>"Brmjha Internship"</b> and it's a social media chat application that will provide users with a seamless and user-friendly platform to communicate and connect with others. The app will integrate various features to ensure efficient and interactive conversations, while keeping user privacy and security as top priorities. </i></h4>
 <h1 align="center"><img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/Phone-screens-%5Bremix%5D.gif?raw=true" style="width:50%;"></h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
