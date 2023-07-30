@@ -2,50 +2,52 @@
 <h4 align="left"><img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/eyes_1f440.gif?raw=true" width="19"
   
   <i> Is a mobile application created as a part of the challenge cards for <b>"Brmjha Internship"</b> and it's a social media chat application that will provide users with a seamless and user-friendly platform to communicate and connect with others. The app will integrate various features to ensure efficient and interactive conversations, while keeping user privacy and security as top priorities. </i></h4>
-<h1 align="center"><img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/Phone-screens-%5Bremix%5D.gif?raw=true" style="width:50%;"></h1>
+<h1 align="center"><img src="https://github.com/urfavcrow23/Connectify/blob/main/Images/Showreel-Grid-Mobile-%5Bremix%5D.gif?raw=true" style="width:50%;"></h1>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.tenor.com/79S3GGfQKnYAAAAC/ocean-divider.gif" width= 100% height=5px>
+
+
 
 <h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/1_cGaTxrPGlA29Z9QcaRg-xA.gif?raw=true" width="30">  Features </h2>
 <h4 align="left">  <i> 
   
- 1. User Registration and Profiles: Users can create accounts with unique profiles to personalize their experience. This allows for score tracking and the ability to compete with friends or other app users. <br><br>
-  2. Categories and Topics: The app offers a wide range of categories and topics, from general knowledge to specific subjects like history, science, literature, and more. Users can choose their preferred category or topic to focus on and expand their knowledge within that area. <br><br>
-  3. Multiple Game Modes: The quiz app offers various game modes to suit the preferences and learning styles of different users. These modes may include timed quizzes, multiplayer challenges, and practice mode with no time constraints. Each mode will provide a unique and engaging experience. <br><br>
+ 1. User Registration and Profile Creation: The app will allow users to create their profiles by providing necessary information such as name, photo, and additional details. Users will also have the option to link their profiles with existing social media accounts. <br><br>
+  2. Real-time Messaging: The core functionality of the app will be real-time messaging, allowing users to send text, images, videos, and other multimedia files to their connections. The app will offer a clean and intuitive interface for a seamless chatting experience. <br><br>
+  3. Group Chats and Channels: The app will include the ability to create and join group chats with friends or specific communities of interest. Users will also have the option to subscribe to public channels for updates and discussions on specific topics. <br><br>
 
 
-  4. Leaderboard and Achievements: A global and friend-based leaderboard will be implemented to foster healthy competition among users. Users can compare their scores and achievements with others, motivating them to improve their knowledge and score higher ranks.<br><br>
+  4. Advanced Search and Discovery: The app will incorporate search and discovery features, allowing users to find and connect with new people based on their interests, location, or mutual connections. The search functionality will be backed by algorithms to provide relevant and accurate results.<br><br>
 
-5. User-Friendly Interface: The app aims to provide a seamless and intuitive user experience. The interface will be visually appealing, easy to navigate, and optimized for mobile devices.<br><br>
+5. Privacy and Security: Data privacy and security will be given utmost importance in the application's design. User information will be encrypted, and necessary measures will be implemented to protect user data from unauthorized access or misuse. Users will have control over their privacy settings, including options to block or report any unwanted interactions.<br><br>
 6. Analytics and Progress tracking: The app will provide detailed analytics and insights to help users track their progress and identify areas of improvement. This data can also assist in generating personalized recommendations for future quizzes or study materials.<br><br>
 
-7. Social Sharing: Users can share their quiz results, achievements, and interesting questions with friends on social media platforms. This feature promotes healthy competition and encourages users to engage with the app.<br><br>
+7. Integration with Existing Social Media Platforms: The app will provide integration with popular social media platforms such as Facebook, Twitter, or Instagram. This will allow users to import their existing contacts and connections to easily connect and chat with their friends.<br><br>
   
  </i> </h4>
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <img src="https://media.tenor.com/79S3GGfQKnYAAAAC/ocean-divider.gif" width= 100% height=5px>
  <h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/1_cGaTxrPGlA29Z9QcaRg-xA.gif?raw=true" width="30">  Conclusion </h2>
  <h4><i>
-The quiz app aims to revolutionize the process of learning and knowledge assessment by providing an engaging and interactive platform for individuals to test their knowledge and expand their understanding. With its user-friendly interface, diverse question bank, multiple game modes, and social features, the app is designed to make learning fun, accessible, and customizable.
+The social media chat app project aims to create a platform that combines the best features of various existing chat applications. By ensuring a user-friendly interface, real-time messaging, advanced search, and strong privacy measures, the app will foster a vibrant and engaging space for users to connect and communicate.
  </i></h4>
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.tenor.com/79S3GGfQKnYAAAAC/ocean-divider.gif" width= 100% height=5px>
 
 
 <h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/dc6but6-a03d853d-502b-47e1-913f-55738c886211.gif?raw=true" width="20">  UI Overview </h2>
 <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/mockup.png?raw=true" width="100%">
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <img src="https://media.tenor.com/79S3GGfQKnYAAAAC/ocean-divider.gif" width= 100% height=5px>
 
  <h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/monophy.gif?raw=true" width="25">  Project Link </h2>
   <h4><i> You can see the entire application from the prototype by clicking on the following link --> 
-    <a href="https://www.figma.com/proto/wmfdyhlX11sIV2nuYkibXg/Brmjha-Card?page-id=0%3A1&type=design&node-id=50-3024&viewport=-4949%2C-1134%2C0.55&t=TG1qLrNwFSYmTbvt-1&scaling=scale-down&starting-point-node-id=50%3A2773&mode=design" target="_blank">Here</a>
+    <a href="https://www.figma.com/proto/tXErIg033eLd1cY1Q24pRR/Connectify?page-id=1%3A2&type=design&node-id=12-1320&viewport=488%2C108%2C0.18&t=pPWKnhDKfKXiY8S2-1&scaling=scale-down&starting-point-node-id=7%3A1204&mode=design" target="_blank">Here</a>
  </i></h4>
 
 
   <h4><i> Or See design file from  
-    <a href="https://www.figma.com/file/wmfdyhlX11sIV2nuYkibXg/Brmjha-Card?type=design&node-id=0%3A1&mode=design&t=EX7A2y4X85Lp2uCY-1" target="_blank">Here</a>
+    <a href="https://www.figma.com/file/tXErIg033eLd1cY1Q24pRR/Connectify?type=design&node-id=1%3A2&mode=design&t=3EEZuBVh3nlxXER1-1" target="_blank">Here</a>
  </i></h4>
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.tenor.com/79S3GGfQKnYAAAAC/ocean-divider.gif" width= 100% height=5px>
 
 
   <h1 align="center"> Thanks for watching  <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/giphy.gif?raw=true" width="20">  </h1>
@@ -82,4 +84,4 @@ The quiz app aims to revolutionize the process of learning and knowledge assessm
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.tenor.com/79S3GGfQKnYAAAAC/ocean-divider.gif" width= 100% height=5px>
