@@ -34,7 +34,7 @@ The social media chat app project aims to create a platform that combines the be
 
 
 <h2 align="left"> <img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/dc6but6-a03d853d-502b-47e1-913f-55738c886211.gif?raw=true" width="20">  UI Overview </h2>
-<img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/mockup.png?raw=true" width="100%">
+<img src="https://github.com/urfavcrow23/Connectify/blob/main/Images/Slice%201.png?raw=true" width="100%">
 
  <img src="https://media.tenor.com/79S3GGfQKnYAAAAC/ocean-divider.gif" width= 100% height=5px>
 
