@@ -2,7 +2,7 @@
 <h4 align="left"><img src="https://github.com/urfavcrow23/QuizApp/blob/main/Images/eyes_1f440.gif?raw=true" width="19"
   
   <i> Is a mobile application created as a part of the challenge cards for <b>"Brmjha Internship"</b> and it's a social media chat application that will provide users with a seamless and user-friendly platform to communicate and connect with others. The app will integrate various features to ensure efficient and interactive conversations, while keeping user privacy and security as top priorities. </i></h4>
-<h1 align="center"><img src="https://github.com/urfavcrow23/Connectify/blob/e591bf4860be610d654e1462fac3112189f16bb4/Images/Showreel-Grid-Mobile-%5Bremix%5D.gif?raw=true" style="width:50%;"></h1>
+<h1 align="center"><img src="https://github.com/urfavcrow23/Connectify/blob/b08bd2a2fb22fd6dc679ab6d927055ae2e6901e4/Images/Showreel-Grid-Mobile-%5Bremix%5D.gif?raw=true" style="width:50%;"></h1>
 
 <img src="https://media.tenor.com/79S3GGfQKnYAAAAC/ocean-divider.gif" width= 100% height=5px>
 
